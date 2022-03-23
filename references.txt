@@ -1,0 +1,3 @@
+References:
+[1] A. J. Smits, Physical introduction to fluid mechanics, Second. John Wiley &amp; Sons, 2014.
+[2] T. L. Bergman, A. S. Lavine, and I. Frank, Introduction to Heat Transfer, 6th ed. Wiley, 2011.
